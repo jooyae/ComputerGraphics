@@ -1,0 +1,6 @@
+﻿  main2.c
+c:\users\박주예\documents\visual studio 2015\projects\glut_test\glut_test\main2.c(321): warning C4101: 'end' :참조되지 않은 지역 변수입니다.
+c:\users\박주예\documents\visual studio 2015\projects\glut_test\glut_test\main2.c(670): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+  glut_test.vcxproj -> C:\Users\박주예\documents\visual studio 2015\Projects\glut_test\Debug\glut_test.exe
+  glut_test.vcxproj -> C:\Users\박주예\documents\visual studio 2015\Projects\glut_test\Debug\glut_test.pdb (Full PDB)
